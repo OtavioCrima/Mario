@@ -1,0 +1,46 @@
+body {
+    background: linear-gradient(180deg, #ffc0a9 0, #ffb5a6 16.67%, #ffa9a2 33.33%, #f29d9d 50%, #de9297 66.67%, #cc8891 83.33%, #bb7f8b 100%);
+}
+
+
+.botao1 {
+    background-color: #ffc0a9;
+    border: none;
+    box-shadow: 3px 4px 3px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.botao2 {
+    background-color: #ffc0a9;
+    border: none;
+    box-shadow: 3px 4px 3px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.botao3 {
+    background-color: #ffc0a9;
+    border: none;
+    box-shadow: 3px 4px 3px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.rodape-texto {
+    height: 48px;
+    display: block;
+    margin: 0 auto;
+    
+}
+
+.button {
+    background-color: #ffc0a9;
+    border: none;
+    box-shadow: 3px 4px 3px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.bb {
+    background-color: #ffc0a9;
+    border: none;
+    box-shadow: 3px 4px 3px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
